@@ -14,4 +14,3 @@ https://janszafran.github.io/githubusersreact/
 **npm install**
 
 **npm run**
-# githubusersreact
