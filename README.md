@@ -2,7 +2,7 @@
 
 <h1>LIVE</h1>
 
-https://janszafran.github.io/react-gitbub-user-search/
+https://janszafran.github.io/githubusersreact/
 
 # Preview
 <div>
